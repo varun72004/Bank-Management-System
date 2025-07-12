@@ -1,0 +1,22 @@
+🗒️ Usage instructions
+*When launched, you’ll see a welcome screen to select Employee (Admin) or Customer.
+
+*Admins can:
+-Login using admin credentials.
+-Manage customer accounts (create/delete).
+-Manage admin accounts (create/delete).
+-Check customer summaries.
+
+*Customers can:
+-Login using account number and PIN.
+-Deposit or withdraw money (with limits).
+-Check balance.
+-Change PIN.
+-Close their account.
+
+⚖️ Limitations & notes
+*Data is stored in plain text files under database/, so it is not suitable for production-level security.
+
+*No encryption of sensitive data (PINs, credentials).
+
+*Only supports single-user at a time due to file-based storage.

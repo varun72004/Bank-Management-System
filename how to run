@@ -1,0 +1,13 @@
+⚙️ How to run
+
+1.Install Python
+Make sure Python 3.x is installed on your system.
+
+2.Check dependencies
+Tkinter is included with Python standard library, but ensure it is available.
+
+3.Clone or download
+Download or clone this repository.
+
+4.Run
+python mainProject.py

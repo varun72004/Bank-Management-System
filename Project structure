@@ -1,0 +1,17 @@
+project/
+├── mainProject.py        # Main application file with all classes and logic
+├── database/
+│   ├── Admin/
+│   │   └── adminDatabase.txt
+│   └── Customer/
+│       └── customerDatabase.txt
+├── images/
+│   ├── bank1.png
+│   ├── adminLogin1.png
+│   ├── customer.png
+│   ├── error_image.png
+│   ├── lock1.png
+│   ├── user1.png
+│   ├── deposit_icon.png
+│   └── withdraw_icon.png
+└── README.md             # Project description and guide

@@ -1,4 +1,4 @@
-#💼 Bank Management System
+# 💼 Bank Management System
 
 A GUI-based bank management application built with Python and Tkinter. It allows admins and customers to perform various banking operations like creating accounts, transactions, and account management through an intuitive interface.
 
